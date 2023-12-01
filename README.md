@@ -8,7 +8,7 @@
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in chengdu, China.
 - 💬 c++ programmer
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
+- ⭐ You may like [google standard](https://zh-google-styleguide.readthedocs.io/) 、or [next]()
 
 ### 🛠 技术栈 | Tech Stack
 
